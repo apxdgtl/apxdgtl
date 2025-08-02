@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Self-taught developer with 3+ years’ experience in building and maintaining web and mobile apps — every one published and hosted solo.
-#### Based in Kolkata, though occasionally spotted in Darjeeling, rebooting at 7,000 feet.
+### Self-taught developer with 3+ years’ experience in building and maintaining web and mobile apps — every one published and hosted solo. Based in Kolkata, though occasionally spotted in Darjeeling, rebooting at 7,000 feet.
 
 ### Skilled in modern, performance-first web and mobile development — using proven frameworks and cloud backends to build fast and scalable products ready for real-world use.
 
